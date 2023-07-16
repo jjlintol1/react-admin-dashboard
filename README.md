@@ -4,10 +4,6 @@
 
 React Admin Dashboard is a modern and responsive web application built with React.js. It provides a comprehensive and user-friendly interface for managing and monitoring various aspects of an admin system or application.
 
-## Demo
-
-A live demo of the React Admin Dashboard is available at [https://your-demo-link.com](https://your-demo-link.com).
-
 ## Features
 
 - Clean and modern UI/UX design for an enjoyable user experience.
